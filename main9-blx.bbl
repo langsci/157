@@ -1,0 +1,2165 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nyt/global/}
+  \entry{AokiEtAl1993}{unpublished}{}
+    \name{author}{2}{}{%
+      {{hash=AE}{%
+         family={Aoki},
+         family_i={A\bibinitperiod},
+         given={Eriko},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nakagawa},
+         family_i={N\bibinitperiod},
+         given={Satoshi},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AENS1}
+    \strng{fullhash}{AENS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{note}{Unpublished manuscript}
+    \field{title}{{E}ndenese-{E}nglish dictionary}
+    \field{year}{1993}
+  \endentry
+
+  \entry{ArkaEtAl2007}{misc}{}
+    \name{author}{5}{}{%
+      {{hash=AIW}{%
+         family={Arka},
+         family_i={A\bibinitperiod},
+         given={I\bibnamedelima Wayan},
+         given_i={I\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Seda},
+         family_i={S\bibinitperiod},
+         given={Fransiscus},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gelang},
+         family_i={G\bibinitperiod},
+         given={Antonius},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=NY}{%
+         family={Nani},
+         family_i={N\bibinitperiod},
+         given={Yohanes},
+         given_i={Y\bibinitperiod},
+      }}%
+      {{hash=TI}{%
+         family={Ture},
+         family_i={T\bibinitperiod},
+         given={Ivan},
+         given_i={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AIW+1}
+    \strng{fullhash}{AIWSFGANYTI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{A {R}ongga-{{English}} dictionary with an
+  {{English}}-{R}ongga finderlist}
+    \verb{url}
+    \verb https://openresearch-repository.anu.edu.au/handle/1885/29891
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{Arndt1933}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Arndt},
+         family_i={A\bibinitperiod},
+         given={Paul},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Arnoldus-Druckerei}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{AP1}
+    \strng{fullhash}{AP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1933}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{{L}i'onesisch-{D}eutsches {W}örterbuch}
+    \list{location}{1}{%
+      {Ende-Flores}%
+    }
+    \field{year}{1933}
+  \endentry
+
+  \entry{Arndt1961}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Arndt},
+         family_i={A\bibinitperiod},
+         given={Paul},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Anthropos-Institut}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{AP1}
+    \strng{fullhash}{AP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1961}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{15}
+    \field{series}{Studia Instituti Anthropos}
+    \field{title}{{W}örterbuch der {N}gadhasprache}
+    \list{location}{1}{%
+      {Posieux (Fribourg, Suisse)}%
+    }
+    \field{year}{1961}
+  \endentry
+
+  \entry{Baird2002}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Baird},
+         family_i={B\bibinitperiod},
+         given={Louise},
+         given_i={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{A grammar of {K}éo: {A}n {A}ustronesian language of {E}ast
+  {N}usantara}
+    \list{institution}{1}{%
+      {Australian National University}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Baird2008}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Baird},
+         family_i={B\bibinitperiod},
+         given={Louise},
+         given_i={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{P}acific Linguistics}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{isbn}{9780858835948}
+    \field{number}{596}
+    \field{title}{A grammar of {K}lon: a non-{A}ustronesian language of {A}lor,
+  {I}ndonesia}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{BaniEtAl2011}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=BH}{%
+         family={Bani},
+         family_i={B\bibinitperiod},
+         given={Heronimus},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=GCE}{%
+         family={Grimes},
+         family_i={G\bibinitperiod},
+         given={Charles\bibnamedelima E.},
+         given_i={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BHGCE1}
+    \strng{fullhash}{BHGCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{Handout from talk given at the International Conference on
+  Language Documentation and Conservation. University of Hawaii, February
+  11--13 2011}
+    \field{title}{Ethno-mathematics in {A}marasi: how to count 400 ears of corn
+  in 60 seconds}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Barnes1974}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BRH}{%
+         family={Barnes},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima H.},
+         given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Clarendon Press}%
+    }
+    \strng{namehash}{BRH1}
+    \strng{fullhash}{BRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{K}édang: {A} Study of the Collective Thought of an
+  {E}astern {I}ndonesian People}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1974}
+  \endentry
+
+  \entry{Barnes1982number}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BRH}{%
+         family={Barnes},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima H.},
+         given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRH1}
+    \strng{fullhash}{BRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{title}{Number and number use in {K}édang, {I}ndonesia}
+    \field{volume}{17}
+    \field{journaltitle}{Man}
+    \field{year}{1982}
+  \endentry
+
+  \entry{Blust2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BRA}{%
+         family={Blust},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima Andrew},
+         given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pacific Linguistics}%
+    }
+    \strng{namehash}{BRA1}
+    \strng{fullhash}{BRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{isbn}{9780858836020}
+    \field{number}{602}
+    \field{title}{The {A}ustronesian languages}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{Blustnd}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=BRA}{%
+         family={Blust},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima Andrew},
+         given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRA1}
+    \strng{fullhash}{BRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{nd}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{{B}lust's {A}ustronesian Comparative Dictionary}
+    \verb{url}
+    \verb http://www.trussel2.com/acd/
+    \endverb
+    \field{year}{nd}
+  \endentry
+
+  \entry{Calon1890}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CLF}{%
+         family={Calon},
+         family_i={C\bibinitperiod},
+         given={L.\bibnamedelima F.},
+         given_i={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLF1}
+    \strng{fullhash}{CLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1890}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{501\bibrangedash 530}
+    \field{title}{Woordenlijstje van het dialect van {S}ikka}
+    \field{volume}{33}
+    \field{journaltitle}{Tijdschrift voor Indische Taal-, Land- en Volkenkunde}
+    \field{year}{1890}
+  \endentry
+
+  \entry{Capell1976}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Capell},
+         family_i={C\bibinitperiod},
+         given={Arthur},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=WSA}{%
+         family={Wurm},
+         family_i={W\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pacific Linguistics}%
+    }
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1976}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{{N}ew {G}uinea area languages and language study}
+    \field{number}{2}
+    \field{pages}{527\bibrangedash 579}
+    \field{title}{{A}ustronesian and {P}apuan `mixed' languages: general
+  remarks}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{1976}
+  \endentry
+
+  \entry{Comrie1992}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CB}{%
+         family={Comrie},
+         family_i={C\bibinitperiod},
+         given={Bernard},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=GJ}{%
+         family={Gvozdanović},
+         family_i={G\bibinitperiod},
+         given={Jadranka},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{CB1}
+    \strng{fullhash}{CB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{{I}ndo-{E}ropean Numerals}
+    \field{number}{57}
+    \field{pages}{717\bibrangedash 833}
+    \field{series}{Trends in Linguistics}
+    \field{title}{{B}alto-{S}lavonic}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{1992}
+  \endentry
+
+  \entry{Comrie2005numsys}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CB}{%
+         family={Comrie},
+         family_i={C\bibinitperiod},
+         given={Bernard},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=WJ}{%
+         family={Wohlgemuth},
+         family_i={W\bibinitperiod},
+         given={Jan},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Dirksmeyer},
+         family_i={D\bibinitperiod},
+         given={Tyko},
+         given_i={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Weißensee Verlag}%
+    }
+    \strng{namehash}{CB1}
+    \strng{fullhash}{CB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{extrayear}{1}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Bedrohte {V}ielfalt: {A}spekte des {S}prach(en)tods
+  [{E}ndangered Diversity: Aspects of Language Death]}
+    \field{pages}{203\bibrangedash 230}
+    \field{title}{Endangered numeral systems}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Comrie2005numbase}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=CB}{%
+         family={Comrie},
+         family_i={C\bibinitperiod},
+         given={Bernard},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=HM}{%
+         family={Haspelmath},
+         family_i={H\bibinitperiod},
+         given={Martin},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=DMS}{%
+         family={Dryer},
+         family_i={D\bibinitperiod},
+         given={Matthew\bibnamedelima S.},
+         given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Comrie},
+         family_i={C\bibinitperiod},
+         given={Bernard},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Gil},
+         family_i={G\bibinitperiod},
+         given={David},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CB1}
+    \strng{fullhash}{CB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{extrayear}{2}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{World Atlas of Language Structures}
+    \field{pages}{530\bibrangedash 533}
+    \field{title}{Numeral bases}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Donohue2008num}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DM}{%
+         family={Donohue},
+         family_i={D\bibinitperiod},
+         given={Mark},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DM1}
+    \strng{fullhash}{DM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{423\bibrangedash 429}
+    \field{title}{Complexities with restricted numeral systems}
+    \field{volume}{12}
+    \field{journaltitle}{Linguistic Typology}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Evans2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EN}{%
+         family={Evans},
+         family_i={E\bibinitperiod},
+         given={Nicholas},
+         given_i={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EN1}
+    \strng{fullhash}{EN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{pages}{321\bibrangedash 335}
+    \field{title}{Two \textit{pus} one makes thirteen: {S}enary numerals in the
+  {More\-head}-{Maro} region}
+    \field{volume}{13}
+    \field{journaltitle}{Linguistic Typology}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Forth1981}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FG}{%
+         family={Forth},
+         family_i={F\bibinitperiod},
+         given={Gregory},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Martinus Nijhoff}%
+    }
+    \strng{namehash}{FG1}
+    \strng{fullhash}{FG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{{R}indi: {A}n ethnographic study of a traditional domain in
+  {E}astern {S}umba}
+    \list{location}{1}{%
+      {The Hague}%
+    }
+    \field{year}{1981}
+  \endentry
+
+  \entry{Forth2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FG}{%
+         family={Forth},
+         family_i={F\bibinitperiod},
+         given={Gregory},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{FG1}
+    \strng{fullhash}{FG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{{N}age birds: Classification and Symbolism among an {E}astern
+  {I}ndonesian people}
+    \list{location}{1}{%
+      {London}%
+    }
+    \field{year}{2004}
+  \endentry
+
+  \entry{Greenberg1978}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=GJH}{%
+         family={Greenberg},
+         family_i={G\bibinitperiod},
+         given={Joseph\bibnamedelima H.},
+         given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=GJH}{%
+         family={Greenberg},
+         family_i={G\bibinitperiod},
+         given={Joseph\bibnamedelima H.},
+         given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Stanford University Press}%
+    }
+    \strng{namehash}{GJH1}
+    \strng{fullhash}{GJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Universals of human language}
+    \field{pages}{250\bibrangedash 295}
+    \field{title}{Generalizations about numeral systems}
+    \field{volume}{3}
+    \list{location}{1}{%
+      {Stanford}%
+    }
+    \field{year}{1978}
+  \endentry
+
+  \entry{GreenhillEtAl2005}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=GSJ}{%
+         family={Greenhill},
+         family_i={G\bibinitperiod},
+         given={Simon\bibnamedelima J.},
+         given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BRA}{%
+         family={Blust},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima Andrew},
+         given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GRD}{%
+         family={Gray},
+         family_i={G\bibinitperiod},
+         given={Russell\bibnamedelima D.},
+         given_i={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GSJBRAGRD1}
+    \strng{fullhash}{GSJBRAGRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005-2007}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{The {A}ustronesian Basic Vocabulary Database ({ABVD})}
+    \verb{url}
+    \verb http://language.psy.auckland.ac.nz/austronesian/
+    \endverb
+    \field{year}{2005-2007}
+  \endentry
+
+  \entry{GrimesEtAl2008}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=GCE}{%
+         family={Grimes},
+         family_i={G\bibinitperiod},
+         given={Charles\bibnamedelima E.},
+         given_i={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ranoh},
+         family_i={R\bibinitperiod},
+         given={Ayub},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=AH}{%
+         family={Aplugi},
+         family_i={A\bibinitperiod},
+         given={Helena},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UBB GMIT}%
+    }
+    \strng{namehash}{GCERAAH1}
+    \strng{fullhash}{GCERAAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{{L}il {D}hao ({N}dao) online dictionary}
+    \verb{url}
+    \verb http://e-kamus2.org/index.html
+    \endverb
+    \list{location}{1}{%
+      {Kupang}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{Hammarstrom2010}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HH}{%
+         family={Hammarström},
+         family_i={H\bibinitperiod},
+         given={Harald},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=WJ}{%
+         family={Wohlgemuth},
+         family_i={W\bibinitperiod},
+         given={Jan},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cysouw},
+         family_i={C\bibinitperiod},
+         given={Michael},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{HH1}
+    \strng{fullhash}{HH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Rethinking Universals: {H}ow rarities affect linguistic
+  theory}
+    \field{pages}{11\bibrangedash 60}
+    \field{title}{Rarities in numeral systems}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Hanke2010}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=HT}{%
+         family={Hanke},
+         family_i={H\bibinitperiod},
+         given={Thomas},
+         given_i={T\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=WJ}{%
+         family={Wohlgemuth},
+         family_i={W\bibinitperiod},
+         given={Jan},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cysouw},
+         family_i={C\bibinitperiod},
+         given={Michael},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{HT1}
+    \strng{fullhash}{HT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Rethinking universals: {H}ow rarities affect linguistic
+  theory}
+    \field{pages}{61\bibrangedash 90}
+    \field{title}{Additional rarities in numeral systems}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Heine1997}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Heine},
+         family_i={H\bibinitperiod},
+         given={Bernd},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{HB1}
+    \strng{fullhash}{HB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Cognitive foundations of grammar}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{year}{1997}
+  \endentry
+
+  \entry{Holtonnda}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HG1}
+    \strng{fullhash}{HG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{nd}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{note}{Accessed 06 December, 2011}
+    \field{title}{{W}estern {P}antar lexicon}
+    \verb{url}
+    \verb http://www.uaf.edu/alor/langs/western-pantar/lexicon/
+    \endverb
+    \field{year}{nd}
+  \endentry
+
+  \entry{HoltonRobinsonTVhistory}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=RLC}{%
+         family={Robinson},
+         family_i={R\bibinitperiod},
+         given={Laura\bibnamedelima C.},
+         given_i={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press}%
+    }
+    \strng{namehash}{HGRLC1}
+    \strng{fullhash}{HGRLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{this volume}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{The {A}lor-{P}antar languages}
+    \field{pages}{55\bibrangedash 97}
+    \field{title}{The internal history of the {A}lor-{P}antar language family}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{this volume}
+  \endentry
+
+  \entry{HoltonEtAl2012}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kratochvíl},
+         family_i={K\bibinitperiod},
+         given={František},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=RLC}{%
+         family={Robinson},
+         family_i={R\bibinitperiod},
+         given={Laura\bibnamedelima C.},
+         given_i={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schapper.},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HG+1}
+    \strng{fullhash}{HGKMKFRLCSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{86\bibrangedash 122}
+    \field{title}{The historical relations of the {P}apuan languages of {A}lor
+  and {P}antar}
+    \field{volume}{51}
+    \field{journaltitle}{Oceanic Linguistics}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Hull2002}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Hull},
+         family_i={H\bibinitperiod},
+         given={Geoffrey},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Instituto Nacional de Linguística/Universidade Nacional de
+  {T}imor-Leste}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{HG1}
+    \strng{fullhash}{HG2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{series}{{E}ast {T}imor Language Profiles}
+    \field{title}{{W}aimaha ({W}aima'a)}
+    \list{location}{1}{%
+      {Dili}%
+    }
+    \field{year}{2002}
+  \endentry
+
+  \entry{Hagerdal2012}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HH}{%
+         family={Hägerdal},
+         family_i={H\bibinitperiod},
+         given={Hans},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {KITLV Press}%
+    }
+    \strng{namehash}{HH2}
+    \strng{fullhash}{HH2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Lords of the Land, Lords of the Sea: {C}onflict and
+  adaptation in early colonial {T}imor, 1600-1800}
+    \list{location}{1}{%
+      {Leiden}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{Keraf1978}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=KG}{%
+         family={Keraf},
+         family_i={K\bibinitperiod},
+         given={Gregorius},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KG1}
+    \strng{fullhash}{KG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Morfologi Dialek {L}amalera}
+    \list{institution}{1}{%
+      {Jakarta: Universitas {I}ndonesia}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1978}
+  \endentry
+
+  \entry{Klamer2010grammar}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{49}
+    \field{series}{Mouton Grammar Library}
+    \field{title}{A Grammar of {T}eiwa}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Klamer2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lincom}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{486}
+    \field{series}{Languages of the World\slash Materials}
+    \field{title}{A Short Grammar of {A}lorese ({A}ustronesian)}
+    \list{location}{1}{%
+      {München}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Klamer2012}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=EN}{%
+         family={Evans},
+         family_i={E\bibinitperiod},
+         given={Nicholas},
+         given_i={N\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Hawaii Press}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{{M}elanesian Languages on the Edge of {A}sia: Challenges
+  for the 21st Century}
+    \field{pages}{72\bibrangedash 108}
+    \field{series}{Language Documentation \& Conservation Special Publication}
+    \field{title}{{P}apuan-{A}ustronesian language contact: {A}lorese from an
+  areal perspective}
+    \field{volume}{5}
+    \list{location}{1}{%
+      {Honolulu}%
+    }
+    \field{year}{2012}
+  \endentry
+
+  \entry{KlamerSchapperCorbettTVnumeralwords}{incollection}{}
+    \name{author}{6}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=CGG}{%
+         family={Corbett},
+         family_i={C\bibinitperiod},
+         given={Greville\bibnamedelima G.},
+         given_i={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Kratochvíl},
+         family_i={K\bibinitperiod},
+         given={František},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=RLC}{%
+         family={Robinson},
+         family_i={R\bibinitperiod},
+         given={Laura\bibnamedelima C.},
+         given_i={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press}%
+    }
+    \strng{namehash}{KM+1}
+    \strng{fullhash}{KMSACGGHGKFRLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{this volume}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{The {A}lor-{P}antar languages}
+    \field{pages}{337\bibrangedash 373}
+    \field{title}{Numeral Words and Arithmetic Operations in the
+  {A}lor-{P}antar languages}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{this volume}
+  \endentry
+
+  \entry{Kratochvil2007}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KF}{%
+         family={Kratochvíl},
+         family_i={K\bibinitperiod},
+         given={František},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {LOT}%
+    }
+    \strng{namehash}{KF1}
+    \strng{fullhash}{KF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A grammar of {A}bui: A {P}apuan language of {A}lor}
+    \list{location}{1}{%
+      {Utrecht}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{Laycock1975}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=LDC}{%
+         family={Laycock},
+         family_i={L\bibinitperiod},
+         given={D.\bibnamedelima C.},
+         given_i={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=WSA}{%
+         family={Wurm},
+         family_i={W\bibinitperiod},
+         given={Stephen\bibnamedelima A.},
+         given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{P}acific Linguistics}%
+    }
+    \strng{namehash}{LDC1}
+    \strng{fullhash}{LDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{{P}apuan languages and the {N}ew {G}uinea linguistic
+  scene}
+    \field{pages}{219\bibrangedash 233}
+    \field{title}{Observations on number systems and semantics}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{1975}
+  \endentry
+
+  \entry{Lean1992}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=LG}{%
+         family={Lean},
+         family_i={L\bibinitperiod},
+         given={Glendon},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{LG1}
+    \strng{fullhash}{LG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Counting systems of {P}apua {N}ew {G}uinea and {O}ceania}
+    \list{institution}{1}{%
+      {{P}apua {N}ew {G}uinea University of Technology}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Lynch2009}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=LJ}{%
+         family={Lynch},
+         family_i={L\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=EB}{%
+         family={Evans},
+         family_i={E\bibinitperiod},
+         given={Bethwyn},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{P}acific Linguistics}%
+    }
+    \strng{namehash}{LJ1}
+    \strng{fullhash}{LJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{Discovering history through language: {P}apers in honour
+  of {Malcolm Ross}}
+    \field{pages}{391\bibrangedash 411}
+    \field{title}{At sixes and sevens: the development of numeral systems in
+  {V}anuatu and {New Caledonia}}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{Majewicz1981}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=MAF}{%
+         family={Majewicz},
+         family_i={M\bibinitperiod},
+         given={Alfred\bibnamedelima F.},
+         given_i={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=dSeF}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Sivers\bibnamedelima (ed.)},
+         family_i={S\bibinitperiod\bibinitdelim e\bibinitperiod},
+         given={Fanny},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SELAF}%
+    }
+    \strng{namehash}{MAF1}
+    \strng{fullhash}{MAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{La main et les doigts dans l'expression linguistique}
+    \field{number}{6}
+    \field{pages}{193\bibrangedash 212}
+    \field{series}{LACITO -- Documents Eurasie}
+    \field{title}{Le rôle du doigt et de la main et leurs désignations dans
+  la formation des systèmes particuliers de numération et de noms de nombres
+  dans certaines langues}
+    \list{location}{1}{%
+      {Paris}%
+    }
+    \field{year}{1981}
+  \endentry
+
+  \entry{Majewicz1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MAF}{%
+         family={Majewicz},
+         family_i={M\bibinitperiod},
+         given={Alfred\bibnamedelima F.},
+         given_i={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAF1}
+    \strng{fullhash}{MAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{69\bibrangedash 84}
+    \field{title}{Le rôle du doigt et de la main et leurs désignations en
+  certaines langues dans la formation des systèmes particuliers de numération
+  et des noms de nombre}
+    \field{volume}{28}
+    \field{journaltitle}{Lingua Posnaniensis}
+    \field{year}{1984}
+  \endentry
+
+  \entry{Matisoff1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJA}{%
+         family={Matisoff},
+         family_i={M\bibinitperiod},
+         given={James\bibnamedelima A.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJA1}
+    \strng{fullhash}{MJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{105\bibrangedash 252}
+    \field{title}{{S}ino-{T}ibetan numerals and the play of prefixes}
+    \field{volume}{20}
+    \field{journaltitle}{Bulletin of the National Museum of Ethnology (Osaka)
+  [Kokuritsu Minzokugaku Hakubutsukan Kenkyuu Hookoku]}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Middelkoop1950}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MP}{%
+         family={Middelkoop},
+         family_i={M\bibinitperiod},
+         given={P.},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MP1}
+    \strng{fullhash}{MP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1950}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{106}
+    \field{pages}{375\bibrangedash 517}
+    \field{title}{Proeve van een {T}imorese grammatica}
+    \field{journaltitle}{Bijdragen tot Taal-, Land- en Volkenkunde}
+    \field{year}{1950}
+  \endentry
+
+  \entry{NishiyamaEtAl2007}{book}{}
+    \name{author}{2}{}{%
+      {{hash=NK}{%
+         family={Nishiyama},
+         family_i={N\bibinitperiod},
+         given={Kunio},
+         given_i={K\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kelen},
+         family_i={K\bibinitperiod},
+         given={Herman},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lincom}%
+    }
+    \strng{namehash}{NKKH1}
+    \strng{fullhash}{NKKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{467}
+    \field{series}{Languages of the World/Materials}
+    \field{title}{A grammar of {L}amaholot, {E}astern {I}ndonesia: the
+  morphology and syntax of the {L}ewoingu dialect}
+    \list{location}{1}{%
+      {München}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{Pampus2001}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PKH}{%
+         family={Pampus},
+         family_i={P\bibinitperiod},
+         given={Karl-Heinz},
+         given_i={K\bibinitperiod-H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Frobenius-Institut Frankfurt am Main}%
+    }
+    \strng{namehash}{PKH1}
+    \strng{fullhash}{PKH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{{Mue Moten Koda Kiwan: Kamus Bahasa Lamaholot, Dialek
+  Lewolema, Flores Timur}}
+    \list{location}{1}{%
+      {Frankfurt}%
+    }
+    \field{year}{2001}
+  \endentry
+
+  \entry{PareiraEtAl1998}{book}{}
+    \name{author}{2}{}{%
+      {{hash=PMM}{%
+         family={Pareira},
+         family_i={P\bibinitperiod},
+         given={M.\bibnamedelima Mandalangi},
+         given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LED}{%
+         family={Lewis},
+         family_i={L\bibinitperiod},
+         given={E.\bibnamedelima Douglas},
+         given_i={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penerbit Nusa Indah}%
+    }
+    \strng{namehash}{PMMLED1}
+    \strng{fullhash}{PMMLED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Kamus {S}ara {S}ikka - {B}ahasa {I}ndonesia}
+    \list{location}{1}{%
+      {Ende, Flores, {I}ndonesia}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{Penn2006}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=PD}{%
+         family={Penn},
+         family_i={P\bibinitperiod},
+         given={David},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD1}
+    \strng{fullhash}{PD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{title}{Introducing {D}adu'a}
+    \list{institution}{1}{%
+      {University of New England}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Plank2009}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PF}{%
+         family={Plank},
+         family_i={P\bibinitperiod},
+         given={Frans},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PF1}
+    \strng{fullhash}{PF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{337\bibrangedash 345}
+    \field{title}{Senary summary so far}
+    \field{volume}{13}
+    \field{journaltitle}{Linguistic Typology}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Samely1991}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SU}{%
+         family={Samely},
+         family_i={S\bibinitperiod},
+         given={Ursula},
+         given_i={U\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Helmut Buske}%
+    }
+    \strng{namehash}{SU1}
+    \strng{fullhash}{SU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{isbn}{9783875480160}
+    \field{number}{46}
+    \field{series}{Forum phoneticum}
+    \field{title}{{K}edang ({E}astern {I}ndonesia): {S}ome Aspects of its
+  Grammar}
+    \list{location}{1}{%
+      {Hamburg}%
+    }
+    \field{year}{1991}
+  \endentry
+
+  \entry{SawardoEtAl1987}{book}{}
+    \name{author}{3}{}{%
+      {{hash=SPW}{%
+         family={Sawardo},
+         family_i={S\bibinitperiod},
+         given={P.\bibnamedelima Wakidi},
+         given_i={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=TYL}{%
+         family={Tarno},
+         family_i={T\bibinitperiod},
+         given={Y.\bibnamedelima Lita},
+         given_i={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kusharyanto},
+         family_i={K\bibinitperiod},
+         given={S.},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pusat Pembinaan dan Pengembangan Bahasa}%
+    }
+    \strng{namehash}{SPWTYLKS1}
+    \strng{fullhash}{SPWTYLKS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Struktur {B}ahasa {L}io}
+    \list{location}{1}{%
+      {Jakarta}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{Schapper2009}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{{B}unaq: A {P}apuan language of central {T}imor}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \list{institution}{1}{%
+      {{A}ustralian National University}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2010}
+  \endentry
+
+  \entry{SchapperEtAl2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Hammarström},
+         family_i={H\bibinitperiod},
+         given={Harald},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAHH1}
+    \strng{fullhash}{SAHH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{425\bibrangedash 456}
+    \field{title}{Innovative numerals in {A}ustronesian languages outside of
+  {O}ceania}
+    \field{volume}{52}
+    \field{journaltitle}{Oceanic Linguistics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{SchapperEtAltawersing}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hendery},
+         family_i={H\bibinitperiod},
+         given={Rachel},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{SAHR1}
+    \strng{fullhash}{SAHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{{P}apuan Languages of {T}imor, {A}lor and {P}antar:
+  {S}ketch Grammars}
+    \field{pages}{439\bibrangedash 504}
+    \field{title}{Wersing}
+    \field{volume}{1}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{SchapperEtAlTVtimor}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Huber},
+         family_i={H\bibinitperiod},
+         given={Juliette},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=vA}{%
+         family={{van Engelenhoven}},
+         family_i={v\bibinitperiod},
+         given={Aone},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press}%
+    }
+    \strng{namehash}{SAHJvA1}
+    \strng{fullhash}{SAHJvA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{this volume}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{The {A}lor-{P}antar languages}
+    \field{pages}{99\bibrangedash 154}
+    \field{title}{The relatedness of {T}imor-{K}isar and {A}lor-{P}antar
+  languages: {A} preliminary demonstration}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{this volume}
+  \endentry
+
+  \entry{chapters/06numerals}{incollection}{skipbib}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press.}%
+    }
+    \strng{namehash}{SAKM1}
+    \strng{fullhash}{SAKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{{The Alor-Pantar languages}}
+    \verb{doi}
+    \verb 10.5281/zenodo.569393
+    \endverb
+    \field{pages}{277\bibrangedash 329}
+    \field{title}{{Numeral systems in the Alor-Pantar languages}}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2017}
+  \endentry
+
+  \entry{Sidwell1999}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SP}{%
+         family={Sidwell},
+         family_i={S\bibinitperiod},
+         given={Paul},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=GJ}{%
+         family={Gvozdanović},
+         family_i={G\bibinitperiod},
+         given={Jadranka},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{SP1}
+    \strng{fullhash}{SP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Numeral types and Changes Worldwide}
+    \field{pages}{253\bibrangedash 271}
+    \field{title}{The {A}ustroasiatic numerals from `one' to `ten' from a
+  historical and typological perspective}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{1999}
+  \endentry
+
+  \entry{Stokhof1975}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SWAL}{%
+         family={Stokhof},
+         family_i={S\bibinitperiod},
+         given={W.\bibnamedelima A.\bibnamedelima L.},
+         given_i={W\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{A}ustralian National University}%
+    }
+    \strng{namehash}{SWAL1}
+    \strng{fullhash}{SWAL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{isbn}{9780858831247}
+    \field{number}{43}
+    \field{series}{{P}acific Linguistics: Series B}
+    \field{title}{Preliminary notes on the {A}lor and {P}antar languages
+  ({E}ast {I}ndonesia)}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{1975}
+  \endentry
+
+  \entry{VanKlinken1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VKC}{%
+         family={Van\bibnamedelima Klinken},
+         family_i={V\bibinitperiod\bibinitdelim K\bibinitperiod},
+         given={Catharina},
+         given_i={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{P}acific Linguistics}%
+    }
+    \keyw{glotto duplicate}
+    \strng{namehash}{VKC1}
+    \strng{fullhash}{VKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{series}{C-155}
+    \field{title}{A grammar of the {F}ehan dialect of {T}etun, an
+  {A}ustronesian Language of West {T}imor.}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{1999}
+  \endentry
+
+  \entry{Vatter1932}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VE}{%
+         family={Vatter},
+         family_i={V\bibinitperiod},
+         given={E.},
+         given_i={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bibliographisches Institut}%
+    }
+    \strng{namehash}{VE1}
+    \strng{fullhash}{VE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1932}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{{A}ta {K}iwan. {U}nbekannte {B}ergvölker im Tropischen
+  {H}olland.}
+    \list{location}{1}{%
+      {Leipzig}%
+    }
+    \field{year}{1932}
+  \endentry
+
+  \entry{Verheijen1967}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJAJ}{%
+         family={Verheijen},
+         family_i={V\bibinitperiod},
+         given={Jilis A.\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nijhoff}%
+    }
+    \strng{namehash}{VJAJ1}
+    \strng{fullhash}{VJAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Kamus {M}anggarai: {M}anggarai-{I}ndonesia \&
+  {I}ndonesia-{M}anggarai}
+    \field{volume}{1}
+    \list{location}{1}{%
+      {'s-Gravenhage}%
+    }
+    \field{year}{1967}
+  \endentry
+
+  \entry{Verheijen1970}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJAJ}{%
+         family={Verheijen},
+         family_i={V\bibinitperiod},
+         given={Jilis A.\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nijhoff}%
+    }
+    \strng{namehash}{VJAJ1}
+    \strng{fullhash}{VJAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1970}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Kamus {M}anggarai: {M}anggarai-{I}ndonesia \&
+  {I}ndonesia-{M}anggarai}
+    \field{volume}{2}
+    \list{location}{1}{%
+      {'s-Gravenhage}%
+    }
+    \field{year}{1970}
+  \endentry
+
+  \entry{Verheijen1978}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJAJ}{%
+         family={Verheijen},
+         family_i={V\bibinitperiod},
+         given={Jilis A.\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {S.V.D.}%
+    }
+    \strng{namehash}{VJAJ1}
+    \strng{fullhash}{VJAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{{B}ahasa {R}embong di {F}lores {B}arat}
+    \field{volume}{3}
+    \list{location}{1}{%
+      {Ruteng}%
+    }
+    \field{year}{1978}
+  \endentry
+
+  \entry{Verheijen1982}{book}{}
+    \name{author}{1}{}{%
+      {{hash=VJAJ}{%
+         family={Verheijen},
+         family_i={V\bibinitperiod},
+         given={Jilis A.\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Martinus Nijhoff}%
+    }
+    \strng{namehash}{VJAJ1}
+    \strng{fullhash}{VJAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1982}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{96}
+    \field{series}{Verhandelingen van het Koninklijk Instituut voor Taal-,
+  Land- en Volkenkunde}
+    \field{title}{{K}omodo: {H}et Eiland, Het Volk en De Taal}
+    \list{location}{1}{%
+      {The Hague}%
+    }
+    \field{year}{1982}
+  \endentry
+
+  \entry{WellfeltEtAl2013}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=WE}{%
+         family={Wellfelt},
+         family_i={W\bibinitperiod},
+         given={Emilie},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WESA1}
+    \strng{fullhash}{WESA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{Paper read at the Eighth International Convention of
+  Asia Scholars, June 24--27, Macao.}
+    \field{title}{Memories of migration and contact: {E}ast {T}imor origins in
+  {A}lor}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Winter1969}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WW}{%
+         family={Winter},
+         family_i={W\bibinitperiod},
+         given={Werner},
+         given_i={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WW1}
+    \strng{fullhash}{WW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{29\bibrangedash 45}
+    \field{title}{Analogischer {S}prachwandel und Semantische {S}truktur}
+    \field{volume}{3}
+    \field{journaltitle}{Folia Linguistica}
+    \field{year}{1969}
+  \endentry
+\endsortlist
+\endinput

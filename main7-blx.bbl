@@ -1,0 +1,734 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nyt/global/}
+  \entry{Baird2008}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Baird},
+         family_i={B\bibinitperiod},
+         given={Louise},
+         given_i={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{P}acific Linguistics}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{isbn}{9780858835948}
+    \field{number}{596}
+    \field{title}{A grammar of {K}lon: a non-{A}ustronesian language of {A}lor,
+  {I}ndonesia}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{Barnes1973}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BRH}{%
+         family={Barnes},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima H.},
+         given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRH1}
+    \strng{fullhash}{BRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1973}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{71\bibrangedash 89}
+    \field{title}{Two terminologies of symmetric prescriptive alliance from
+  {P}antar and {A}lor in {E}astern {I}ndonesia}
+    \field{volume}{23}
+    \field{journaltitle}{Sociologus}
+    \field{year}{1973}
+  \endentry
+
+  \entry{Barnes1980}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=BRH}{%
+         family={Barnes},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima H.},
+         given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=FJJ}{%
+         family={Fox},
+         family_i={F\bibinitperiod},
+         given={James\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{crossref}{Fox1980}
+    \strng{namehash}{BRH1}
+    \strng{fullhash}{BRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{68\bibrangedash 97}
+    \field{title}{Concordance, structure, and variation: {C}onsiderations of
+  alliance in {K}edang}
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{1980}
+  \endentry
+
+  \entry{Blust1993}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BRA}{%
+         family={Blust},
+         family_i={B\bibinitperiod},
+         given={Robert\bibnamedelima Andrew},
+         given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BRA1}
+    \strng{fullhash}{BRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1}
+    \field{pages}{22\bibrangedash 76}
+    \field{title}{{A}ustronesian sibling terms and culture history}
+    \field{volume}{149}
+    \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+    \field{year}{1993}
+  \endentry
+
+  \entry{Forman1980}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Forman},
+         family_i={F\bibinitperiod},
+         given={Shepard},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=FJJ}{%
+         family={Fox},
+         family_i={F\bibinitperiod},
+         given={James\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{crossref}{Fox1980}
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{pages}{152\bibrangedash 177}
+    \field{title}{Descent, alliance, and exchange ideology among the Makassae
+  of {E}ast {T}imor}
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{1980}
+  \endentry
+
+  \entry{Fox1980}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=FJJ}{%
+         family={Fox},
+         family_i={F\bibinitperiod},
+         given={James\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{FJJ1}
+    \strng{fullhash}{FJJ1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Flow of Life: Essays on {E}astern {I}ndonesian}
+    \list{location}{1}{%
+      {Cambridge}%
+    }
+    \field{year}{1980}
+  \endentry
+
+  \entry{Fox1995}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FJJ}{%
+         family={Fox},
+         family_i={F\bibinitperiod},
+         given={James\bibnamedelima J.},
+         given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FJJ1}
+    \strng{fullhash}{FJJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1995}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{note}{Paper read at {A}ustronesian Studies Relating to {T}aiwan,
+  {S}ymposium {S}eries of the {I}nstitute of {H}istory and {P}hilology,
+  {A}cademia {S}inica, at {T}aipei}
+    \field{title}{Origin structures and systems of precedence in the
+  comparative study of {A}ustronesian societies}
+    \field{year}{1995}
+  \endentry
+
+  \entry{Haan2001}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=HJW}{%
+         family={Haan},
+         family_i={H\bibinitperiod},
+         given={Johnson\bibnamedelima Welem},
+         given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJW1}
+    \strng{fullhash}{HJW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{The Grammar of {A}dang: A {P}apuan Language Spoken on the
+  Island of {A}lor {E}ast {N}usa {T}enggara - {I}ndonesia}
+    \list{location}{1}{%
+      {Sydney}%
+    }
+    \list{institution}{1}{%
+      {University of Sydney}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2001}
+  \endentry
+
+  \entry{chapters/05kinship}{incollection}{skipbib}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press.}%
+    }
+    \strng{namehash}{HG1}
+    \strng{fullhash}{HG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{{The Alor-Pantar languages}}
+    \verb{doi}
+    \verb 10.5281/zenodo.569392
+    \endverb
+    \field{pages}{191\bibrangedash 238}
+    \field{title}{{Kinship in the Alor-Pantar languages}}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2017}
+  \endentry
+
+  \entry{HoltonRobinsonTVposition}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=HG}{%
+         family={Holton},
+         family_i={H\bibinitperiod},
+         given={Gary},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=RLC}{%
+         family={Robinson},
+         family_i={R\bibinitperiod},
+         given={Laura\bibnamedelima C.},
+         given_i={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press}%
+    }
+    \strng{namehash}{HGRLC1}
+    \strng{fullhash}{HGRLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{this volume}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{The {A}lor-{P}antar languages}
+    \field{pages}{155\bibrangedash 198}
+    \field{title}{The linguistic position of the {T}imor-{A}lor-{P}antar
+  languages}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{this volume}
+  \endentry
+
+  \entry{Klamer2010grammar}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mouton de Gruyter}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{49}
+    \field{series}{Mouton Grammar Library}
+    \field{title}{A Grammar of {T}eiwa}
+    \list{location}{1}{%
+      {Berlin}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Klamer2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Klamer},
+         family_i={K\bibinitperiod},
+         given={Marian},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Lincom}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{486}
+    \field{series}{Languages of the World\slash Materials}
+    \field{title}{A Short Grammar of {A}lorese ({A}ustronesian)}
+    \list{location}{1}{%
+      {München}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Kratochvil2007}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KF}{%
+         family={Kratochvíl},
+         family_i={K\bibinitperiod},
+         given={František},
+         given_i={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {LOT}%
+    }
+    \strng{namehash}{KF1}
+    \strng{fullhash}{KF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{A grammar of {A}bui: A {P}apuan language of {A}lor}
+    \list{location}{1}{%
+      {Utrecht}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{KratochvilEtAl2008kamus}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KF}{%
+         family={Kratochvíl},
+         family_i={K\bibinitperiod},
+         given={František},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Delpada},
+         family_i={D\bibinitperiod},
+         given={Benediktus},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Unit Bahasa dan Budaya (UBB)}%
+    }
+    \strng{namehash}{KFDB1}
+    \strng{fullhash}{KFDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Kamus pengantar {B}ahasa {A}bui
+  ({A}bui-{I}ndonesian-{{English}} dictionary)}
+    \list{location}{1}{%
+      {Kupang}%
+    }
+    \field{year}{2008}
+  \endentry
+
+  \entry{Needham1956}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NR}{%
+         family={Needham},
+         family_i={N\bibinitperiod},
+         given={Rodney.},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NR1}
+    \strng{fullhash}{NR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1956}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{pages}{285\bibrangedash 290}
+    \field{title}{A note on kinship and marriage on {P}antara}
+    \field{volume}{112-113}
+    \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+    \field{year}{1956}
+  \endentry
+
+  \entry{Nicolspeyer1940}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=NMM}{%
+         family={Nicolspeyer},
+         family_i={N\bibinitperiod},
+         given={Martha\bibnamedelima Margaretha},
+         given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMM1}
+    \strng{fullhash}{NMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1940}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{De sociale structuur van een {A}loreesche bevolkingsgroep}
+    \list{location}{1}{%
+      {Rijswijk}%
+    }
+    \list{institution}{1}{%
+      {Rijksuniversiteit te Leiden}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1940}
+  \endentry
+
+  \entry{SchapperEtAl2011kamus}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={Schapper},
+         family_i={S\bibinitperiod},
+         given={Antoinette},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Manimau},
+         family_i={M\bibinitperiod},
+         given={Marten},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Unit Bahasa dan Budaya (BDD)}%
+    }
+    \strng{namehash}{SAMM1}
+    \strng{fullhash}{SAMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{7}
+    \field{series}{UBB Language \& Culture Series: A}
+    \field{title}{Kamus Pengantar {B}ahasa {K}amang-{I}ndonesia-{I}nggris
+  ({I}ntroductory {K}amang-{I}ndonesian-{{English}} dictionary)}
+    \list{location}{1}{%
+      {Kupang}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{Schneider1984}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SDM}{%
+         family={Schneider},
+         family_i={S\bibinitperiod},
+         given={David\bibnamedelima M.},
+         given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Michigan}%
+    }
+    \strng{namehash}{SDM1}
+    \strng{fullhash}{SDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1984}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{A Critique of the Study of Kinship}
+    \list{location}{1}{%
+      {Ann Arbor}%
+    }
+    \field{year}{1984}
+  \endentry
+
+  \entry{Schweitzer2000}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SPP}{%
+         family={Schweitzer},
+         family_i={S\bibinitperiod},
+         given={Peter\bibnamedelima P.},
+         given_i={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=SPP}{%
+         family={Schweitzer},
+         family_i={S\bibinitperiod},
+         given={Peter\bibnamedelima P.},
+         given_i={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{SPP1}
+    \strng{fullhash}{SPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Dividends of Kinship: {M}eanings and Uses of Social
+  Relatedness}
+    \field{pages}{1\bibrangedash 32}
+    \field{title}{Introduction}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2000}
+  \endentry
+
+  \entry{Steinhauer1993}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Steinhauer},
+         family_i={S\bibinitperiod},
+         given={Hein},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=HP}{%
+         family={Haenen},
+         family_i={H\bibinitperiod},
+         given={P.},
+         given_i={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {DSALCUL/IRIS}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Vrienden en verwanten, Liber Amicorum {A}lex van der
+  {L}eeden}
+    \field{pages}{147\bibrangedash 168}
+    \field{title}{Sisters and potential wives: where linguists and
+  anthropologists meet: notes on kinship in {B}lagar ({A}lor)}
+    \list{location}{2}{%
+      {Leiden}%
+      {Jakarta}%
+    }
+    \field{year}{1993}
+  \endentry
+
+  \entry{Steinhauer2010}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Steinhauer},
+         family_i={S\bibinitperiod},
+         given={Hein},
+         given_i={H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=FA}{%
+         family={Fedorchuk},
+         family_i={F\bibinitperiod},
+         given={Artem},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chlenova},
+         family_i={C\bibinitperiod},
+         given={Svetlana},
+         given_i={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mosty Kul'tury Gesharim}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Studia Antropologica. {A} {F}estschrift in Honour of
+  {M}ichael {C}hlenov}
+    \field{pages}{261\bibrangedash 283}
+    \field{title}{Pura when we were younger than today}
+    \list{location}{1}{%
+      {Jerusalim}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{Stokhof1977}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SWAL}{%
+         family={Stokhof},
+         family_i={S\bibinitperiod},
+         given={W.\bibnamedelima A.\bibnamedelima L.},
+         given_i={W\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{A}ustralian National University}%
+    }
+    \strng{namehash}{SWAL1}
+    \strng{fullhash}{SWAL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{19}
+    \field{series}{{P}acific Linguistics: Series D}
+    \field{title}{{W}oisika {I}: {A}n Ethnographic Introduction}
+    \list{location}{1}{%
+      {Canberra}%
+    }
+    \field{year}{1977}
+  \endentry
+
+  \entry{VanWouden1968}{book}{}
+    \name{author}{1}{}{%
+      {{hash=vFAE}{%
+         family={{van Wouden}},
+         family_i={v\bibinitperiod},
+         given={F.\bibnamedelima A.\bibnamedelima E.},
+         given_i={F\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Marinus Nijhoff}%
+    }
+    \strng{namehash}{vFAE1}
+    \strng{fullhash}{vFAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{edition}{Translated by Rodney Needham. Original edition, Sociale
+  structuurtypen in de Groote Oost.}
+    \field{title}{Types of Social Structure in {E}astern {I}ndonesia}
+    \list{location}{1}{%
+      {The Hague}%
+    }
+    \field{year}{1968}
+  \endentry
+\endsortlist
+\endinput

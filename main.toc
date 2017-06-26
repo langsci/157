@@ -1,0 +1,425 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\defcounter {refsection}{0}\relax
+\select@language {english}
+\defcounter {refsection}{1}\relax
+\contentsline {chapter}{{\numberline {~}Preface and acknowledgements\newline {\normalfont Marian Klamer}}}{vii}{chapter*.2}
+\defcounter {refsection}{2}\relax
+\contentsline {chapter}{{\numberline {~}Preface to the second edition\newline {\normalfont Marian Klamer}}}{xi}{chapter*.4}
+\defcounter {refsection}{3}\relax
+\contentsline {chapter}{{\numberline {1}The Alor-Pantar languages: Linguistic context, history and typology\newline {\normalfont Marian Klamer}}}{1}{chapter*.5}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1.1}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {2}Current linguistic situation on Alor and Pantar}{3}{section.1.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {2.1}The Papuan languages of Alor and Pantar}{3}{subsection.1.2.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {2.2}Indigenous Austronesian languages\p@index [lan]{Austronesian language(s)} on Alor and Pantar}{6}{subsection.1.2.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {2.3}Indonesian and Alor Malay}{7}{subsection.1.2.3}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {3}History of research on the Alor and Pantar languages}{8}{section.1.3}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {4}History of Alor and Pantar languages and their speakers}{9}{section.1.4}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {4.1}Prehistory}{9}{subsection.1.4.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {4.2}Historical records on Alor and Pantar}{11}{subsection.1.4.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {4.3}Contact}{13}{subsection.1.4.3}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {5}Typological overview}{13}{section.1.5}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.1}Phonology}{14}{subsection.1.5.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.2}Constituent order}{15}{subsection.1.5.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.3}Pronominal\p@index [sbj]{pronoun} indexing and morphological alignment}{16}{subsection.1.5.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.4}Possession}{21}{subsection.1.5.4}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.5}Plural number words}{22}{subsection.1.5.5}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.6}Serial verb constructions}{23}{subsection.1.5.6}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.7}Postpositions}{25}{subsection.1.5.7}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.8}Morphological typology}{26}{subsection.1.5.8}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {5.9}Typological features of AP languages in the Papuan context}{28}{subsection.1.5.9}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {6}Lexicon}{30}{section.1.6}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {6.1}Cognates and reconstructed vocabulary}{30}{subsection.1.6.1}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {6.2}Numerals and numeral systems}{30}{subsection.1.6.2}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {6.3}Numeral classifiers}{31}{subsection.1.6.3}
+\defcounter {refsection}{3}\relax
+\contentsline {subsection}{\numberline {6.4}Kinship terminology}{33}{subsection.1.6.4}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {7}Challenges for future research}{34}{section.1.7}
+\defcounter {refsection}{3}\relax
+\contentsline {section}{\numberline {8}Data collection and archiving}{34}{section.1.8}
+\defcounter {refsection}{4}\relax
+\contentsline {chapter}{{\numberline {2}The internal history of the Alor-Pantar language family\newline {\normalfont Gary Holton \& Laura C. Robinson}}}{49}{chapter*.26}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {1}Introduction}{49}{section.2.1}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {2}Sound correspondences and reconstruction}{51}{section.2.2}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.1}Voiced stops}{55}{subsection.2.2.1}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.2}Voiceless stops}{60}{subsection.2.2.2}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.3}Fricatives}{63}{subsection.2.2.3}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.4}Nasals}{64}{subsection.2.2.4}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.5}Liquids}{65}{subsection.2.2.5}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.6}Glides}{66}{subsection.2.2.6}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {2.7}Reconstructed proto-Alor-Pantar\p@index [lan]{proto-Alor-Pantar} vocabulary}{67}{subsection.2.2.7}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {3}Internal subgrouping}{68}{section.2.3}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {3.1}Subgrouping based on shared phonological innovations\p@index [sbj]{innovation}}{69}{subsection.2.3.1}
+\defcounter {refsection}{4}\relax
+\contentsline {subsection}{\numberline {3.2}Subgrouping based on lexical characters}{70}{subsection.2.3.2}
+\defcounter {refsection}{4}\relax
+\contentsline {section}{\numberline {4}Discussion}{75}{section.2.4}
+\defcounter {refsection}{5}\relax
+\contentsline {chapter}{{\numberline {3}The relatedness of Timor-Kisar and Alor-Pantar languages: A preliminary demonstration\newline {\normalfont Antoinette Schapper, Juliette Huber \& Aone van Engelenhoven}}}{91}{chapter*.53}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {1}Introduction}{91}{section.3.1}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {2}Sound correspondences}{92}{section.3.2}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.1}Reconstruction of bilabial stops}{93}{subsection.3.2.1}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.2}Reconstruction of coronal stops}{94}{subsection.3.2.2}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.3}Reconstruction of velar stops}{100}{subsection.3.2.3}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.4}Reconstruction of fricatives}{104}{subsection.3.2.4}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.5}Reconstruction of glides}{104}{subsection.3.2.5}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.6}Reconstruction of liquids}{107}{subsection.3.2.6}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {2.7}Reconstruction of nasals}{115}{subsection.3.2.7}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {3}Summary of correspondences and reconstructed phonemes}{118}{section.3.3}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {4}Discussion}{118}{section.3.4}
+\defcounter {refsection}{5}\relax
+\contentsline {section}{\numberline {A}Appendix}{127}{section.3.1}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {A.1}Data supporting the additional pAP\p@index [lan]{proto-Alor-Pantar} reconstructions}{127}{subsection.3.1.1}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {A.2}Data supporting the additional pTIM\p@index [lan]{proto-Timor} reconstructions}{137}{subsection.3.1.2}
+\defcounter {refsection}{5}\relax
+\contentsline {subsection}{\numberline {A.3}List of cognates and pTAP\p@index [lan]{proto-Timor Alor Pantar} reconstruction}{141}{subsection.3.1.3}
+\defcounter {refsection}{6}\relax
+\contentsline {chapter}{{\numberline {4}The linguistic position of the Timor-Alor-Pantar languages\newline {\normalfont Gary Holton \& Laura C. Robinson}}}{147}{chapter*.80}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {1}Introduction}{147}{section.4.1}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {2}Typological evidence}{151}{section.4.2}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {2.1}Phonology}{152}{subsection.4.2.1}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {2.2}Morphology}{154}{subsection.4.2.2}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {2.3}Syntax}{159}{subsection.4.2.3}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {3}Pronominal\p@index [sbj]{pronoun} evidence}{161}{section.4.3}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {4}Lexicon}{165}{section.4.4}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {4.1}Lexical evidence for the NH hypothesis}{165}{subsection.4.4.1}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {4.2}Lexical evidence for the TNG\p@index [lan]{Trans-New Guinea language(s)} hypothesis}{169}{subsection.4.4.2}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {5}Comparison with individual languages}{173}{section.4.5}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {5.1}South Bird's Head}{173}{subsection.4.5.1}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {5.2}Dani}{175}{subsection.4.5.2}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {5.3}Wissel Lakes\p@index [lan]{Wissel Lakes language(s)}}{176}{subsection.4.5.3}
+\defcounter {refsection}{6}\relax
+\contentsline {subsection}{\numberline {5.4}West Bomberai\p@index [lan]{Bomberai language(s)}}{178}{subsection.4.5.4}
+\defcounter {refsection}{6}\relax
+\contentsline {section}{\numberline {6}Discussion}{183}{section.4.6}
+\defcounter {refsection}{7}\relax
+\contentsline {chapter}{{\numberline {5}Kinship in the Alor-Pantar languages\newline {\normalfont Gary Holton}}}{191}{chapter*.104}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {1}Introduction}{191}{section.5.1}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {2}Kin terminology}{193}{section.5.2}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.1}Western Pantar}{194}{subsection.5.2.1}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.2}Teiwa}{199}{subsection.5.2.2}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.3}Blagar}{202}{subsection.5.2.3}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.4}Kiraman}{203}{subsection.5.2.4}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.5}Adang}{206}{subsection.5.2.5}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.6}Abui}{209}{subsection.5.2.6}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.7}Kamang}{213}{subsection.5.2.7}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {2.8}Wersing}{216}{subsection.5.2.8}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {3}Summary and comparison of kinship terms}{218}{section.5.3}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {4}Marriage prescriptions}{225}{section.5.4}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {4.1}Symmetrical exchange}{228}{subsection.5.4.1}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {4.2}Asymmetrical exchange}{229}{subsection.5.4.2}
+\defcounter {refsection}{7}\relax
+\contentsline {subsection}{\numberline {4.3}Non-prescriptive systems}{230}{subsection.5.4.3}
+\defcounter {refsection}{7}\relax
+\contentsline {section}{\numberline {5}Discussion}{231}{section.5.5}
+\defcounter {refsection}{8}\relax
+\contentsline {chapter}{{\numberline {6}Elevation in the spatial deictic systems of Alor-Pantar languages\newline {\normalfont Antoinette Schapper}}}{239}{chapter*.143}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {1}Introduction}{239}{section.6.1}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {2}Terminological preliminaries}{240}{section.6.2}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {3}Alor-Pantar elevational\p@index [sbj]{elevation} systems}{243}{section.6.3}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.1}Wersing\p@index [lan]{Wersing}}{243}{subsection.6.3.1}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.2}Teiwa\p@index [lan]{Teiwa}}{244}{subsection.6.3.2}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.3}Abui\p@index [lan]{Abui}}{245}{subsection.6.3.3}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.4}Blagar\p@index [lan]{Blagar}}{247}{subsection.6.3.4}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.5}Adang}{250}{subsection.6.3.5}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.6}Western Pantar\p@index [lan]{Western Pantar}}{253}{subsection.6.3.6}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.7}Kamang\p@index [lan]{Kamang}}{257}{subsection.6.3.7}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {3.8}Summary}{258}{subsection.6.3.8}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {4}History of AP elevation\p@index [sbj]{elevation} terms}{261}{section.6.4}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {4.1}Proto-elevationals\p@index [sbj]{elevation}}{262}{subsection.6.4.1}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {4.2}Proto-elevational\p@index [sbj]{elevation} verbs}{265}{subsection.6.4.2}
+\defcounter {refsection}{8}\relax
+\contentsline {subsection}{\numberline {4.3}Elaborations of the proto-system}{265}{subsection.6.4.3}
+\defcounter {refsection}{8}\relax
+\contentsline {section}{\numberline {5}Conclusion}{271}{section.6.5}
+\defcounter {refsection}{9}\relax
+\contentsline {chapter}{{\numberline {7}Numeral systems in the Alor-Pantar languages\newline {\normalfont Antoinette Schapper \& Marian Klamer}}}{277}{chapter*.168}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {1}Introduction}{277}{section.7.1}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {2}Terminological preliminaries}{278}{section.7.2}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {3}A brief note on sound changes\p@index [sbj]{sound change} and numerals}{281}{section.7.3}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {4}Numerals `one' to `five'}{282}{section.7.4}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {5}Numerals `six' to `nine'}{284}{section.7.5}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {5.1}Numeral `six': Simplex\p@index [sbj]{simplex numeral} and compound forms}{285}{subsection.7.5.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {5.2}Numerals `seven' to `nine'}{288}{subsection.7.5.2}
+\defcounter {refsection}{9}\relax
+\contentsline {subsubsection}{\numberline {5.2.1}Additive\p@index [sbj]{additive numeral} base-five compounds}{288}{subsubsection.7.5.2.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsubsection}{\numberline {5.2.2}Subtractive\p@index [sbj]{subtractive numeral} base-ten compounds and extensions}{290}{subsubsection.7.5.2.2}
+\defcounter {refsection}{9}\relax
+\contentsline {subsubsection}{\numberline {5.2.3}Other mixed systems for `seven' to `nine'}{294}{subsubsection.7.5.2.3}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {6}Numerals `ten' and above}{297}{section.7.6}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {6.1}Numeral `ten': multiplied base-ten compound}{297}{subsection.7.6.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {6.2}Numerals within decades}{299}{subsection.7.6.2}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {6.3}Multiples of `hundred' and `thousand'}{300}{subsection.7.6.3}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {7}Alor-Pantar numerals from a typological and areal perspective}{302}{section.7.7}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {7.1}Typological rarities in AP numeral(s)}{302}{subsection.7.7.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {7.2}AP numerals in their areal context}{304}{subsection.7.7.2}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {8}Conclusions and discussion}{309}{section.7.8}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {9}Sources}{314}{section.7.9}
+\defcounter {refsection}{9}\relax
+\contentsline {section}{\numberline {A}Appendix}{316}{section.7.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {A.1}Cardinal numerals\p@index [sbj]{cardinal numeral(s)} in the Alor-Pantar languages}{316}{subsection.7.1.1}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {A.2}Numerals `one' to `ten' in Austronesian languages\p@index [lan]{Austronesian language(s)} W of Alor-Pantar}{320}{subsection.7.1.2}
+\defcounter {refsection}{9}\relax
+\contentsline {subsection}{\numberline {A.3}Numerals `one' to `ten' in Austronesian languages\p@index [lan]{Austronesian language(s)} S \& E of Alor-Pantar}{322}{subsection.7.1.3}
+\defcounter {refsection}{10}\relax
+\contentsline {chapter}{{\numberline {8}Numeral words and arithmetic operations in the Alor-Pantar languages\newline {\normalfont Marian Klamer, Antoinette Schapper, Greville Corbett, Gary Holton, František Kratochvíl \& Laura C. Robinson}}}{329}{chapter*.195}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {1}Introduction}{329}{section.8.1}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {2}Operations to create numeral words}{330}{section.8.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {2.1}Cardinal numerals}{330}{subsection.8.2.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {2.2}Ordinal numerals\p@index [sbj]{ordinal numeral(s)}}{333}{subsection.8.2.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {2.3}Distributive numerals\p@index [sbj]{distributive numerals}}{337}{subsection.8.2.3}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {2.3.1}Forms and distribution of distributives\p@index [sbj]{distributive numerals}}{337}{subsubsection.8.2.3.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {2.3.2}Regular distributive\p@index [sbj]{distributive numerals} formation}{338}{subsubsection.8.2.3.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {2.3.3}Irregularities in distributive\p@index [sbj]{distributive numerals} formation}{340}{subsubsection.8.2.3.3}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {3}Structures expressing arithmetic operations}{342}{section.8.3}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {3.1}Addition}{342}{subsection.8.3.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {3.2}Subtraction}{343}{subsection.8.3.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {3.3}Multiplication}{344}{subsection.8.3.3}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {3.4}Division}{345}{subsection.8.3.4}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {3.5}Fractions}{346}{subsection.8.3.5}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {4}Summary and conclusions}{348}{section.8.4}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {4.1}Sources}{350}{subsection.8.4.1}
+\defcounter {refsection}{10}\relax
+\contentsline {section}{\numberline {A}Appendix}{351}{section.8.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {A.1}Ordinal\p@index [sbj]{ordinal numeral(s)} and Distributive Numerals\p@index [sbj]{distributive numerals}}{351}{subsection.8.1.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsection}{\numberline {A.2}Numeral Questionnaire used in the field}{356}{subsection.8.1.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {A.2.1}Numerals}{356}{subsubsection.8.1.2.1}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {A.2.2}Tasks}{356}{subsubsection.8.1.2.2}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {A.2.3}Points for further elicitation}{358}{subsubsection.8.1.2.3}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {A.2.4}Numerals 1--100}{363}{subsubsection.8.1.2.4}
+\defcounter {refsection}{10}\relax
+\contentsline {subsubsection}{\numberline {A.2.5}Higher cardinals\p@index [sbj]{cardinal numeral(s)}}{363}{subsubsection.8.1.2.5}
+\defcounter {refsection}{11}\relax
+\contentsline {chapter}{{\numberline {9}Plural number words in the Alor-Pantar languages\newline {\normalfont Marian Klamer, Antoinette Schapper \& Greville Corbett}}}{365}{chapter*.213}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {1}Introduction}{365}{section.9.1}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {2}Plural\p@index [sbj]{plural (number) word} number words across Alor-Pantar}{366}{section.9.2}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {3}Syntax of plural\p@index [sbj]{plural (number) word} words in Alor-Pantar}{371}{section.9.3}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.1}Western Pantar\p@index [lan]{Western Pantar}}{371}{subsection.9.3.1}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.2}Teiwa\p@index [lan]{Teiwa}}{373}{subsection.9.3.2}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.3}Kamang\p@index [lan]{Kamang}}{377}{subsection.9.3.3}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.4}Abui\p@index [lan]{Abui}}{381}{subsection.9.3.4}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.5}Wersing\p@index [lan]{Wersing}}{384}{subsection.9.3.5}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {3.6}Summary}{387}{subsection.9.3.6}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {4}Semantics of plural\p@index [sbj]{plural (number) word} words in Alor-Pantar}{388}{section.9.4}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.1}Completeness}{388}{subsection.9.4.1}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.2}Abundance}{390}{subsection.9.4.2}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.3}Individuation}{392}{subsection.9.4.3}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.4}Individuation of mass to count}{392}{subsection.9.4.4}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.5}Clan or place name to members}{393}{subsection.9.4.5}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.6}Partitive}{394}{subsection.9.4.6}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.7}Vocative}{395}{subsection.9.4.7}
+\defcounter {refsection}{11}\relax
+\contentsline {subsection}{\numberline {4.8}Summary}{396}{subsection.9.4.8}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {5}Typological perspectives on plural\p@index [sbj]{plural (number) word} words in AP languages}{397}{section.9.5}
+\defcounter {refsection}{11}\relax
+\contentsline {section}{\numberline {6}Conclusions}{399}{section.9.6}
+\defcounter {refsection}{12}\relax
+\contentsline {chapter}{{\numberline {10}Participant marking: Corpus study and video elicitation\newline {\normalfont Sebastian Fedden \& Dunstan Brown}}}{403}{chapter*.220}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {1}Introduction}{403}{section.10.1}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {2}Alignment}{406}{section.10.2}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {3}Number of person prefix series}{410}{section.10.3}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {4}Video elicitation}{411}{section.10.4}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {4.1}Video stimuli}{412}{subsection.10.4.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {4.2}Speakers and procedure}{414}{subsection.10.4.2}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {5}Participant properties}{414}{section.10.5}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {5.1}Abui}{415}{subsection.10.5.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {5.1.1}Inflection classes in Abui}{415}{subsubsection.10.5.1.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {5.1.2}Affectedness in Abui}{417}{subsubsection.10.5.1.2}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {5.1.3}Volitionality in Abui}{418}{subsubsection.10.5.1.3}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {5.2}Kamang}{422}{subsection.10.5.2}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {5.2.1}Inflection classes in Kamang}{423}{subsubsection.10.5.2.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {5.2.2}Affectedness in Kamang}{427}{subsubsection.10.5.2.2}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {5.3}Animacy and verb classes in Teiwa}{428}{subsection.10.5.3}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {6}Discussion and conclusion}{434}{section.10.6}
+\defcounter {refsection}{12}\relax
+\contentsline {section}{\numberline {A}Appendix}{437}{section.10.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsection}{\numberline {A.1}The Video Elicitation Task}{437}{subsection.10.1.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {A.1.1}Background}{437}{subsubsection.10.1.1.1}
+\defcounter {refsection}{12}\relax
+\contentsline {subsubsection}{\numberline {A.1.2}Task}{437}{subsubsection.10.1.1.2}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.1}Materials}{437}{paragraph.10.1.1.2.1}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.2}Requirements}{438}{paragraph.10.1.1.2.2}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.3}Number of speakers}{438}{paragraph.10.1.1.2.3}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.4}Procedure}{438}{paragraph.10.1.1.2.4}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.5}Further probing and elicitation}{439}{paragraph.10.1.1.2.5}
+\defcounter {refsection}{12}\relax
+\contentsline {paragraph}{\numberline {A.1.2.6}List of video clips}{440}{paragraph.10.1.1.2.6}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index}{447}{section*.240}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Name index}{447}{section*.241}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Language index}{453}{section*.242}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Subject index}{459}{section*.243}
